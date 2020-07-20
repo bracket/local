@@ -1,0 +1,75 @@
+Valuation
+    1) What will the final acquisition cost be?
+
+    2) What should I expect the sale price of the bar to be if I sell in:
+        a) One year
+        b) Two years
+        c) Five years
+        d) Ten years
+
+    3) What loans and obligations exist already?
+
+    4) What are the trends of property values in this area?
+
+
+Space
+    1) What are the terms of the current lease?
+
+    2) What is the current value of the building?
+
+        a) What insurances can I create if the value of the building goes up
+        dramatically and rent proportionately increases at the end of the lease
+        agreement?
+
+    3) What terms can I get given the business may need to be fully or
+       partially closed for sustained periods during the pandemic?
+
+       a) Is it possible to tie reduced rent to which phase of reopening we're
+       in?
+
+    4) If we get the lot next door:
+        a) What are the lease terms?
+
+        b) What is the value of the property?
+
+        c) Also insurances can I create against dramatic property value and
+        rent increases?
+
+
+
+
+
+I will need to make per month revenue and cost estimates for every month the
+end of 2022, taking into account time of year, and phase of reopening,
+including potentially reverting to previous phases and flu season.
+
+By day-of-week breakdown would be nice for my reference but are not necessary.
+
+To do that I will need as detailed data as I can get from the start of 2018 to
+as late as possible of the following:
+
+Revenue sources:
+    - Liquor
+    - Food
+    - Lottery
+
+Costs:
+    - Labor
+    - Liquor
+    - Food
+    - Insurance
+      - Liability
+      - Others?
+    - Upkeep
+      - Water
+      - Power
+      - Cable/Internet
+      - POS
+      - Maintenance
+        - Continuous and unexpected
+    - Licensing
+      - Liquor - 2.5k
+      - LLC or S corp
+      - Lottery - 
+      - Food - 
+    - Shows
