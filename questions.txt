@@ -10,43 +10,103 @@ Valuation
     3) What loans and obligations exist already?
 
     4) What are the trends of property values in this area?
+        - Nearby house on Fremont on Grand went up 8% in the past two years.
+          This building went up 31%.  Lot next door went up 25%
 
 
 Space
     1) What are the terms of the current lease?
+        - To the end up September 2024 with slowly increasing rent.
 
     2) What is the current value of the building?
+        - 3.122 million dollars in 2019.  2.383 million dollars in 2017.
+          increase in 31% over last two years.
 
         a) What insurances can I create if the value of the building goes up
         dramatically and rent proportionately increases at the end of the lease
         agreement?
+            - Maybe I can negotiate a longer lease after Covid is settled.
+              Covid will probably also have an effect on property values.
+            - Tie rent to the RMV value of the building.
+        
 
     3) What terms can I get given the business may need to be fully or
        partially closed for sustained periods during the pandemic?
 
+           - The current rent is already increasing on a particular scale over
+             the next two years (though not exceedingly rapidly).  It may be
+             possible to negotiate a lower rent and slower increase now and a
+             higher rent and more rapid increase later.
+
        a) Is it possible to tie reduced rent to which phase of reopening we're
        in?
+            - We'll see
+    
 
     4) If we get the lot next door:
         a) What are the lease terms?
 
         b) What is the value of the property?
+            - 228,790 in 2019.  185,450 in 2017.  Increase of 23% over last two
+              years.
 
         c) Also insurances can I create against dramatic property value and
         rent increases?
+            - Negotiate for a longer lease or buy the property outright.
+
+
+Contingencies
+    1) What can you do to insure this place survives if something happens to you?
+
+    2) Can we get liability insurance for Corona?  What happens if a
+    Coronavirus outbreak is traced to the bar?
+
+    3) What risk do I need to incorporate for poorly enforced Coronavirus protocols?
+
+
+Income
+    1) Grosses for 7/21/2020
+
+    2) Regular gross during Covid
+        a) ~300 a day (optimistic)
+        b) Event days ~ 675
+            - ~600 taken during the event directly
 
 
 
+-----
+
+Profit/Loss Sheet Questions
+    1) Line items I don't understand
+        a) Contract labor
+        b) Over/Short - Bar
+        c) Over/Short - Lottery
+        d) Officer Wages/Salary
+        e) Ask My Accountant
+        f) Vendor Reporting Paid
+        g) Security
+
+    2) Widely varying (and expensive) utility bill.
+        a) Try to get a utility breakdown
+
+    3) Change in merchant account fees?
+        - Not all that important it's 3k and is zero now anyways.
+
+    4) What all goes in to advertising and entertainment?
+
+    5) Dip in rent for October and November?
+        - Ed gave Rick two months rent free.
+
+    6) What happened in August last year to drive bar sales?
+        - Rick taking over the bar.
 
 
-I will need to make per month revenue and cost estimates for every month the
-end of 2022, taking into account time of year, and phase of reopening,
-including potentially reverting to previous phases and flu season.
+-----
 
-By day-of-week breakdown would be nice for my reference but are not necessary.
 
-To do that I will need as detailed data as I can get from the start of 2018 to
-as late as possible of the following:
+
+I'm going to make per month revenue and cost estimates for every month the end of 2022, taking into account time of year, and phase of reopening, including potentially reverting to previous phases and flu season.
+To do that I will need as detailed data as I can get from the start of 2018 (or early as possible) to as late as possible of the following:
 
 Revenue sources:
     - Liquor
@@ -54,7 +114,8 @@ Revenue sources:
     - Lottery
 
 Costs:
-    - Labor
+    - Rent
+    - Payroll
     - Liquor
     - Food
     - Insurance
@@ -64,12 +125,44 @@ Costs:
       - Water
       - Power
       - Cable/Internet
-      - POS
+      - Point of Sale
       - Maintenance
-        - Continuous and unexpected
     - Licensing
-      - Liquor - 2.5k
+      - Liquor
       - LLC or S corp
-      - Lottery - 
-      - Food - 
-    - Shows
+      - Lottery
+      - Food
+    - Taxes
+
+
+----
+
+
+What does phase 0 revenue look like?
+    - bank services
+    - uber
+    - charitable
+    - depreciation
+    - dishes and furniture
+    - lottery fees
+    - workmans comp
+    - insurance other
+    - licenses
+    - office supplies
+    - outside services
+    - party page
+    - accounting
+    - consulting
+    - professional - other
+    - discrepancies
+    - rent
+    - cleaning
+    - repairs
+    - security
+    - maintenance
+    - telephone
+    - utilities
+    - voided check
+    - interest
+    - ask my accountant
+    - vendor reporting paid
